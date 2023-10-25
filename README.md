@@ -1,7 +1,7 @@
 # Netflix-Analysis
 📊 Netflix Analysis with Tableau 📈
 
-I recently conducted a comprehensive analysis of Netflix shows using Tableau for data visualization. The results are quite intriguing:
+I conducted a comprehensive analysis of Netflix shows using Tableau for data visualization. The results are quite intriguing:
 
 1. Netflix takes the lead with an extensive collection of TV-MA rated shows, surpassing all other rating categories.
 
@@ -16,4 +16,3 @@ I recently conducted a comprehensive analysis of Netflix shows using Tableau for
 These insights provide valuable glimpses into Netflix's content landscape and its strategies for catering to a diverse global audience. If you're keen to discuss these findings or delve deeper into the dynamics of the streaming industry, please don't hesitate to reach out.
 
 #DataAnalysis #Netflix #Tableau #GitHub
-
