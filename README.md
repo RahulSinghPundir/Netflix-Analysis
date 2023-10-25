@@ -1,5 +1,4 @@
-# Netflix-Analysis
-📊 Netflix Analysis with Tableau 📈
+# 📊 Netflix Analysis with Tableau 📈
 
 I conducted a comprehensive analysis of Netflix shows using Tableau for data visualization. The results are quite intriguing:
 
